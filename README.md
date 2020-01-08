@@ -1,1 +1,3 @@
-# git101
+#Git 101
+
+Let's learn git!

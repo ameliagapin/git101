@@ -1,1 +1,2 @@
-print("Hello world!")
+for x in range(6):
+    print("Hello world!")
